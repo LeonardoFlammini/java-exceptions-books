@@ -1,0 +1,18 @@
+{
+Title: ciao
+Author: come
+Publisher: stai
+Number of pages: 34
+}
+{
+Title: bene
+Author: e
+Publisher: tu?
+Number of pages: 45
+}
+{
+Title: Tutto
+Author: a
+Publisher: posto
+Number of pages: 90
+}
